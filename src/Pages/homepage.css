@@ -1,0 +1,17 @@
+
+    .title{
+        font-weight: 600;
+        font-size: small;
+    }
+
+.item{
+padding: 10px;
+}
+.mainButton{
+    /* margin-left: 100px; */
+    /* position:relative; 
+    left: '50%';
+     top: '50%';
+    transform: 'translate(-50%, -50%)'; */
+}
+    
